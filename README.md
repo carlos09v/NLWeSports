@@ -3,12 +3,12 @@
 <p>Projeto construído do evento Next Level Week da Rocketseat</p>
 <div align='center'>
     <img src="https://github.com/carlos09v/NLWeSports/blob/main/Trilha_Explorer/preview.jpg" width='600'>
-    <hr>
-    <h3>- Tecnologias</h3>
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Git e GitHub</li>
-    </ul>
-    <a href="https://carlos09v.github.io/NLWeSports/Trilha_Explorer" target="_blank">👉🏽 Veja o site aqui 👈🏽</a>
 </div>
+<hr>
+<h3>- Tecnologias</h3>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Git e GitHub</li>
+</ul>
+<a href="https://carlos09v.github.io/NLWeSports/Trilha_Explorer" target="_blank">👉🏽 Veja o site aqui 👈🏽</a>
